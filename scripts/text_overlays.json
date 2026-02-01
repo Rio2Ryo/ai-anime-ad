@@ -1,0 +1,81 @@
+{
+  "overlays": [
+    {
+      "start": 0,
+      "end": 2,
+      "text": "3 CLIQUES",
+      "style": "hook",
+      "position": "center"
+    },
+    {
+      "start": 2,
+      "end": 4,
+      "text": "= SEU ANIME PRONTO",
+      "style": "hook",
+      "position": "center"
+    },
+    {
+      "start": 4,
+      "end": 6,
+      "text": "SEM SABER DESENHAR",
+      "style": "hook",
+      "position": "center"
+    },
+    {
+      "start": 6,
+      "end": 10,
+      "text": "AÇÃO",
+      "style": "genre",
+      "position": "bottom"
+    },
+    {
+      "start": 15,
+      "end": 20,
+      "text": "KAWAII",
+      "style": "genre",
+      "position": "bottom"
+    },
+    {
+      "start": 25,
+      "end": 30,
+      "text": "BRASIL",
+      "style": "genre",
+      "position": "bottom"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "text": "QUALQUER ESTILO",
+      "style": "feature",
+      "position": "center"
+    },
+    {
+      "start": 50,
+      "end": 55,
+      "text": "\"EU NÃO SEI DESENHAR...\"",
+      "style": "problem",
+      "position": "center"
+    },
+    {
+      "start": 55,
+      "end": 60,
+      "text": "DESENHO ❌  TÉCNICA ❌",
+      "style": "solution",
+      "position": "center"
+    },
+    {
+      "start": 60,
+      "end": 65,
+      "text": "A IA FAZ POR VOCÊ!",
+      "style": "cta",
+      "position": "center"
+    },
+    {
+      "start": 65,
+      "end": 71,
+      "text": "TESTE GRÁTIS →",
+      "style": "cta",
+      "position": "center"
+    }
+  ]
+}
